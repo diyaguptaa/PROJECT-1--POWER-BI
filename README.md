@@ -38,8 +38,8 @@ Purchase Frequency
 Select Measure: (Net Sales, Quantity, etc.)
 Gateway: (All, Shopify, PayPal, Gift Card, etc.)
 Province: (All or specific region)
+
 🖼️ Dashboard Screenshot
-Screenshot 2025-06-01 180809 Screenshot 2025-06-01 180817
 
 🛠 Tools Used
 Power BI
